@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="93cbff79-41fa-4b8e-84c9-943d03112375" name="Chip" url="http://chip">
+        <fileTransfer host="chip" port="22" rootFolder="/home/chip" accessType="SFTP" username="chip">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
